@@ -6,6 +6,14 @@
 
 ## Note: All of the days will not be complete as there are some problems that I am unable to complete during that year.
 
+### Create Script Quickstart
+```
+$ chmod +x create.sh
+$ ./create.sh
+$ usage: ./create.sh [Year Number] [Day Number]
+```
+
 ### Languages:
 #### 2020: Scala
 #### 2021: Rust
+
